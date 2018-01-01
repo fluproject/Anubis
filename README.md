@@ -10,6 +10,4 @@ Nota: Requiere Windows XP, Windows Vista o Windows 7 y el Net Framework 3.5. Si 
  
 Ya hay más de 50.000 usuarios que han probado la herramienta, si estás entre ellos y quieres darnos tu opinión sobre posibles mejoras o bugs puedes enviarnos un email al correo: info@flu-project.com.
 
-Podéis descargar un manual de usuario desde aquí.
-
 NOTA: La herramienta Anubis ha sido discontinuada, por lo que no cuenta con mantenimiento y es posible que sus funcionalidades vayan dejando de operar de forma adecuada a lo largo del tiempo.
