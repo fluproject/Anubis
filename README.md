@@ -6,7 +6,7 @@ Entre otras funcionalidades, Anubis permite buscar dominios mediante técnicas b
 
 Descarga Anubis v1.3 desde el ZIP adjunto.
 
-Nota: Requiere Windows XP, Windows Vista o Windows 7 y el Net Framework 3.5. Si quieres saber más de Anubis y de otras técnicas de recolección de información en Auditoría de seguridad te recomendamos la descarga de nuestro libro (también gratuito): LA BIBLIA DEL FOOTPRINTING, que también podrs encontrar en nuestra cuenta de Github.
+Nota: Requiere Windows XP, Windows Vista o Windows 7 y el Net Framework 3.5. Si quieres saber más de Anubis y de otras técnicas de recolección de información en Auditoría de seguridad te recomendamos la descarga de nuestro libro (también gratuito): LA BIBLIA DEL FOOTPRINTING, que también podrás encontrar en nuestra cuenta de Github.
  
 Ya hay más de 50.000 usuarios que han probado la herramienta, si estás entre ellos y quieres darnos tu opinión sobre posibles mejoras o bugs puedes enviarnos un email al correo: info@flu-project.com.
 
